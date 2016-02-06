@@ -1,0 +1,28 @@
+name: Kelly Jewell
+favicon: null
+layout_spectrum: 0.7090344587340951
+typography_spectrum: 0.33989468589425087
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.999018301256001
+  lightness: 0.9712081421166658
+  saturation: 0.13792478037066758
+  rhythmicContrast: 0.55961455963552
+purpose: []
